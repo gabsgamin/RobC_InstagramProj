@@ -1,6 +1,6 @@
 #### Overview
 
-This repository provides a starting point to build an application based on the Instagram platform.  In addition to the Instagram API model, the respository includes a sample iOS project.
+This repository provides is a modified version of HSInstagram  app. It is a starting point to build an application based on the Instagram platform.  In addition to the Instagram API model, the respository includes a sample iOS project.
 
 #### Requirements
 
